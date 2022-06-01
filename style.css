@@ -12,7 +12,7 @@ main {
     flex-wrap: wrap;
 }
 
-h4 {
+h4,p {
     font-family: Verdana;
     font-size: medium;
     color: #042f58;
@@ -62,6 +62,9 @@ header ul{
     width: 23%;
     border-radius: 0;
     margin: 0;
+}
+.apropos{
+    padding: 10px;
 }
 
 
