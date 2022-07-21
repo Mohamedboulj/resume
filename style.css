@@ -96,7 +96,7 @@ header ul li,
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    width: 48%;
+    width: 415px;
 }
 
 .lan div div label,
