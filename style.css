@@ -164,3 +164,19 @@ section img {
 .github img ,.php img,.laravel img ,.mysql img{
     width: 35%;
 }
+
+@media screen and (max-width: 375px) {
+    .info{
+        padding-left: 5px;
+    }
+    .info li{
+        font-size: 10px;
+        
+    }
+    h2,h3{
+        font-size: 16px;
+    }
+    header img{
+        width: 25%;
+    }
+}
